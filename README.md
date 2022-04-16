@@ -2,7 +2,7 @@
 
 Thank you for coming to my page.<br>
 I’m songlines, data scientist from 🇯🇵, based in 🇳🇱.
-Passionate for research, data science, marketing, and apparently also for music!
+Passionate for data analysis, data science, research, and apparently also for music and nature!
 
 - 📫 How to reach me: https://www.linkedin.com/in/yoshiko-kikawa/?locale=en_US
 
