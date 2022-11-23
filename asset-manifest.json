@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/react-project-01/static/css/main.2f1ed038.chunk.css",
+    "main.js": "/react-project-01/static/js/main.236a7232.chunk.js",
+    "main.js.map": "/react-project-01/static/js/main.236a7232.chunk.js.map",
+    "runtime-main.js": "/react-project-01/static/js/runtime-main.49c0d105.js",
+    "runtime-main.js.map": "/react-project-01/static/js/runtime-main.49c0d105.js.map",
+    "static/js/2.dcf0b6c1.chunk.js": "/react-project-01/static/js/2.dcf0b6c1.chunk.js",
+    "static/js/2.dcf0b6c1.chunk.js.map": "/react-project-01/static/js/2.dcf0b6c1.chunk.js.map",
+    "static/js/3.3337ae86.chunk.js": "/react-project-01/static/js/3.3337ae86.chunk.js",
+    "static/js/3.3337ae86.chunk.js.map": "/react-project-01/static/js/3.3337ae86.chunk.js.map",
+    "index.html": "/react-project-01/index.html",
+    "static/css/main.2f1ed038.chunk.css.map": "/react-project-01/static/css/main.2f1ed038.chunk.css.map",
+    "static/js/2.dcf0b6c1.chunk.js.LICENSE.txt": "/react-project-01/static/js/2.dcf0b6c1.chunk.js.LICENSE.txt",
+    "static/media/carousel-01.0019327e.jpg": "/react-project-01/static/media/carousel-01.0019327e.jpg",
+    "static/media/carousel-04.a602b53f.jpg": "/react-project-01/static/media/carousel-04.a602b53f.jpg",
+    "static/media/carousel-05.8ff3b158.jpg": "/react-project-01/static/media/carousel-05.8ff3b158.jpg",
+    "static/media/gallery-01-small.439fb91e.jpg": "/react-project-01/static/media/gallery-01-small.439fb91e.jpg",
+    "static/media/gallery-02-small.842a4fb2.jpg": "/react-project-01/static/media/gallery-02-small.842a4fb2.jpg",
+    "static/media/gallery-03-small.abf0bfa9.jpg": "/react-project-01/static/media/gallery-03-small.abf0bfa9.jpg",
+    "static/media/gallery-04-small.adf4f937.jpg": "/react-project-01/static/media/gallery-04-small.adf4f937.jpg",
+    "static/media/gallery-05-small.e9e29dd7.jpg": "/react-project-01/static/media/gallery-05-small.e9e29dd7.jpg",
+    "static/media/gallery-06-small.927a346a.jpg": "/react-project-01/static/media/gallery-06-small.927a346a.jpg",
+    "static/media/gallery-07-small.5dc872be.jpg": "/react-project-01/static/media/gallery-07-small.5dc872be.jpg",
+    "static/media/gallery-08-small.62e58d14.jpg": "/react-project-01/static/media/gallery-08-small.62e58d14.jpg",
+    "static/media/gallery-09-small.54b25874.jpg": "/react-project-01/static/media/gallery-09-small.54b25874.jpg",
+    "static/media/icon-home.d7057932.png": "/react-project-01/static/media/icon-home.d7057932.png",
+    "static/media/project-01.81c31393.jpg": "/react-project-01/static/media/project-01.81c31393.jpg",
+    "static/media/project-02.f6eb7314.jpg": "/react-project-01/static/media/project-02.f6eb7314.jpg",
+    "static/media/project-03.0e86bad0.jpg": "/react-project-01/static/media/project-03.0e86bad0.jpg",
+    "static/media/project-04.f3ef5c00.jpg": "/react-project-01/static/media/project-04.f3ef5c00.jpg",
+    "static/media/project-05.a6831e1a.jpg": "/react-project-01/static/media/project-05.a6831e1a.jpg",
+    "static/media/project-06.ed781c44.jpg": "/react-project-01/static/media/project-06.ed781c44.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.49c0d105.js",
+    "static/js/2.dcf0b6c1.chunk.js",
+    "static/css/main.2f1ed038.chunk.css",
+    "static/js/main.236a7232.chunk.js"
+  ]
+}
