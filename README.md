@@ -1,6 +1,6 @@
 <h1 align="center">Hello👋&nbsp;I’m&nbsp;Yoshiko&nbsp;🍀</h1>
 
-<h2 align="center">I’m a freelance Web Developer/Data Analyst based in The Netherlands&nbsp;🇳🇱<br>
+<h2 align="center">I’m a freelance Web Developer/Data Analyst in The Netherlands&nbsp;🇳🇱<br>
 Actively looking for new opportunities🙋‍♀️</h2>
 
 <h2>Find Me:</h2>
@@ -16,7 +16,7 @@ Actively looking for new opportunities🙋‍♀️</h2>
 <h2>Skills:</h2>
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,react,html,css,py,flask,git,mysql)](https://skills.thijs.gg)
-<h4>Excel/PowerBI/Tableau/Adobe(Illustrator, Photoshop, Acrobat)</h4>
+<h4>Adobe CS/Bootstrap/Excel/PowerBI/Tableau/Google Analytics</h4>
 
 <h2>Experience:</h2>
 <h4>Accounting/Art/Education/NGO/Sanitation/Sustainability/Travel</h4>
