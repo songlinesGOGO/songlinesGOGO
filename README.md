@@ -13,7 +13,7 @@ Actively looking for new opportunities🙋‍♀️</h2>
 
 
 <h2>Skills:</h2>
-<h4>HTML/CSS, JavaScript, React.js, Python, Adobe CS, Shopify, WordPress, Google Analytics, Power BI</h4>
+<h4>HTML/CSS/JavaScript/React.js/Python/Shopify/Wix/WordPress</h4>
 <h4>Adobe CS/Bootstrap/Excel/PowerBI/Tableau/Google Analytics</h4>
 
 <h2>Experience:</h2>
