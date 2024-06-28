@@ -5,8 +5,8 @@ Actively looking for new opportunities🙋‍♀️</h2>
 
 <h2>Find Me:</h2>
 <p align="left">
-<a href="https://www.linkedin.com/in/yoshiko-kikawa/?locale=en_US">Linkedin</a> / 
-<a href="https://instagram.com/yoshikonome/" rel="nofollow">Instagram</a>
+<h4><a href="https://www.linkedin.com/in/yoshiko-kikawa/?locale=en_US">Linkedin</a> / 
+<a href="https://instagram.com/yoshikonome/" rel="nofollow">Instagram</a></h4>h4>
  </p>     
 <h4><a href="https://www.yoshikok.org/">🙎‍♀️ Portfolio</a> / <a href="https://www.yoshikok.org/_files/ugd/bd8bbb_2324b79f1b2b44d0ba934ec26646e36d.pdf">📄 My CV</a><br />
 </h4>
