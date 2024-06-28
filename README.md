@@ -17,7 +17,7 @@ Actively looking for new opportunities🙋‍♀️</h2>
 <h4>Adobe CS/Bootstrap/Excel/PowerBI/Tableau/Google Analytics</h4>
 
 <h2>Experience:</h2>
-<h4>Accounting/Art/Education/NGO/Sanitation/Sustainability/Travel</h4>
+<h4>Accounting/Art/Education/NGO/Sanitation/Sustainability/Travel/Fashion/Nature/Animals</h4>
 
 
 <!--
